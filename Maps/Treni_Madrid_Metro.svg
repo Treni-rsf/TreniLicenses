@@ -26,10 +26,10 @@
           </cc:Agent>
         </dc:creator>
         <dc:source rdf:resource="https://commons.wikimedia.org/wiki/File:Madrid_Metro_Map.svg" />
-        <dc:description>Derived from "Madrid Metro Map.svg" by Javitomad (https://commons.wikimedia.org/wiki/File:Madrid_Metro_Map.svg), licensed under CC BY-SA. Modifications: redrawn/edited line geometry, station layout, and styling for the Treni app; removed the Metro Ligero lines (ML1-ML3); stripped internal station identifiers; relabeled metro lines as L1-L12 and LR.</dc:description>
+        <dc:description>Derived from "Madrid Metro Map.svg" by Javitomad and Wikimedia Commons contributors (https://commons.wikimedia.org/wiki/File:Madrid_Metro_Map.svg), used under CC BY-SA 4.0. Javitomad created the source file in 2007 and contributors have revised it since; most of the line shapes here come from a 2022 redraw by Snooze123. Modifications for the Treni app: redrawn/edited line geometry, station layout and styling; Metro Ligero lines (ML1-ML3) removed; internal station identifiers stripped; metro lines relabeled L1-L12 and LR.</dc:description>
         <dc:rights>
           <cc:Agent>
-            <dc:title>Original work © Javitomad; derivative © Ramón</dc:title>
+            <dc:title>Original work © Javitomad and Wikimedia Commons contributors; derivative © Ramón</dc:title>
           </cc:Agent>
         </dc:rights>
         <cc:license rdf:resource="https://creativecommons.org/licenses/by-sa/4.0/" />
