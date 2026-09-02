@@ -15,11 +15,14 @@ See [`LICENSE`](LICENSE).
 ## Maps
 
 ### Madrid
-- **File:** [`Maps/Treni_Madrid_Metro.svg`](Maps/Treni_Madrid_Metro.svg)
-- **Adapted from:** "Madrid Metro Map.svg" by **Javitomad** —
+* **File:** [`Maps/Treni_Madrid_Metro.svg`](Maps/Treni_Madrid_Metro.svg)
+* Adapted from: "Madrid Metro Map.svg" by Javitomad & contributors —
   https://commons.wikimedia.org/wiki/File:Madrid_Metro_Map.svg
-- **Original license:** CC BY-SA (offered as 4.0 / 3.0 / 2.5 / 2.0 / 1.0)
-- **This derivative:** CC BY-SA 4.0
-- **Modifications:** redrawn/edited line geometry, station layout, and styling;
-  removed the Metro Ligero lines (ML1–ML3); stripped internal station
-  identifiers; relabeled metro lines as L1–L12 and LR.
+* Original license: CC BY-SA (offered as 4.0 / 3.0 / 2.5 / 2.0 / 1.0). We selected CC BY-SA 4.0.
+* This derivative: CC BY-SA 4.0
+* Modifications: redrawn/edited line geometry, station layout, and styling; removed the
+  Metro Ligero lines (ML1–ML3); stripped internal station identifiers; relabeled metro
+  lines as L1–L12 and LR.
+* Prior modifications: the Commons file has been revised by contributors since Javitomad
+  created it in 2007 — notably a 2022 redraw of most line shapes by Snooze123. The file
+  history at the link above names everyone.
