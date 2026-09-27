@@ -1,0 +1,264 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Generator: Adobe Illustrator 25.4.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+
+<svg
+   version="1.1"
+   id="Capa_1"
+   inkscape:version="1.4.3 (0d15f75, 2025-12-25)"
+   sodipodi:docname="Madrid_Metro_Ligero_Line4.svg"
+   x="0px"
+   y="0px"
+   viewBox="0 0 3616.5874023 592.7012329"
+   xml:space="preserve"
+   width="2500"
+   height="400"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"><defs
+   id="defs338" />
+  <metadata
+   id="metadata-treni-attribution">
+    <rdf:RDF
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#">
+      <cc:Work rdf:about="">
+        <dc:title>Madrid Metro Ligero Line 4 / Tranvia de Parla (Treni derivative)</dc:title>
+        <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>Ramon</dc:title>
+          </cc:Agent>
+        </dc:creator>
+        <dc:source rdf:resource="https://commons.wikimedia.org/wiki/File:Madrid_Metro_Ligero_Line4.svg" />
+        <dc:description>Derived from "Madrid Metro Ligero Line4.svg" by Andreuvv (https://commons.wikimedia.org/wiki/File:Madrid_Metro_Ligero_Line4.svg), used under CC BY-SA 4.0. Andreuvv uploaded and revised the source file in October 2022 and is its sole author. Modifications for the Treni app: accessory elements removed and the path lines simplified.</dc:description>
+        <dc:rights>
+          <cc:Agent>
+            <dc:title>Original work (c) Andreuvv; derivative (c) Ramon</dc:title>
+          </cc:Agent>
+        </dc:rights>
+        <cc:license rdf:resource="https://creativecommons.org/licenses/by-sa/4.0/" />
+      </cc:Work>
+      <cc:License rdf:about="https://creativecommons.org/licenses/by-sa/4.0/">
+        <cc:permits rdf:resource="http://creativecommons.org/ns#Reproduction" />
+        <cc:permits rdf:resource="http://creativecommons.org/ns#Distribution" />
+        <cc:permits rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+        <cc:requires rdf:resource="http://creativecommons.org/ns#Notice" />
+        <cc:requires rdf:resource="http://creativecommons.org/ns#Attribution" />
+        <cc:requires rdf:resource="http://creativecommons.org/ns#ShareAlike" />
+      </cc:License>
+    </rdf:RDF>
+  </metadata>
+<style
+   type="text/css"
+   id="style1">
+	.st0{fill:#FFFFFF;}
+	.st1{fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;}
+	.st2{fill:#76B82A;}
+	.st3{fill:#FF1721;}
+	.st4{fill:#FF001F;}
+	.st5{fill:#A19200;}
+	.st6{fill:#76777A;}
+	.st7{fill:none;}
+</style>
+<sodipodi:namedview
+   bordercolor="#666666"
+   borderopacity="1"
+   gridtolerance="10"
+   guidetolerance="10"
+   id="namedview541"
+   inkscape:current-layer="Capa_1"
+   inkscape:cx="1294.9679"
+   inkscape:cy="159.91549"
+   inkscape:document-rotation="0"
+   inkscape:pageopacity="0"
+   inkscape:pageshadow="2"
+   inkscape:window-height="841"
+   inkscape:window-maximized="0"
+   inkscape:window-width="1440"
+   inkscape:window-x="0"
+   inkscape:window-y="31"
+   inkscape:zoom="0.28765193"
+   objecttolerance="10"
+   pagecolor="#ffffff"
+   showgrid="false"
+   inkscape:showpageshadow="2"
+   inkscape:pagecheckerboard="0"
+   inkscape:deskcolor="#d1d1d1">
+	</sodipodi:namedview>
+
+<g
+   id="g_ml4_lines"
+   inkscape:label="Lines"
+   transform="translate(-1085.3348,-98.014997)"><path
+     inkscape:label="ML4"
+     id="ml4_trunk"
+     stroke="transitGreen"
+     style="fill:none;stroke:#76b82a;stroke-width:8"
+     d="m 3310.84,380 c 51.91,0 94,-42.09 94,-94 0,-51.91 -42.09,-94 -94,-94 H 2978.21 2645.58 2312.95 1980.33 1647.7 1315.07 c -51.91,0 -94,42.09 -94,94 0,51.91 42.09,94 94,94 h 220.38 220.39" /><path
+     inkscape:label="ML4"
+     id="ml4_north"
+     stroke="transitGreen"
+     style="fill:none;stroke:#76b82a;stroke-width:8"
+     d="m 1755.84,380 c 145.34,0 145.33,48 290.67,48 h 312.5 312.49 312.5 c 163.42,0 163.42,-48 326.84,-48" /><path
+     inkscape:label="ML4"
+     id="ml4_south"
+     stroke="transitGreen"
+     style="fill:none;stroke:#76b82a;stroke-width:8"
+     d="m 1755.84,380 c 145.34,0 145.33,-48 290.67,-48 h 312.5 312.49 312.5 c 163.42,0 163.42,48 326.84,48" /></g><g
+   id="g339"
+   inkscape:label="Stations"
+   transform="translate(-1085.3348,-98.014997)"><circle
+     style="fill:#338000;stroke-width:9.68314"
+    
+     cx="1315.0699"
+     cy="192"
+     inkscape:transform-center-x="357.75967"
+     inkscape:transform-center-y="178.87987"
+     r="17.5"
+     /><circle
+     style="fill:#338000;stroke-width:9.68314"
+    
+     cx="1315.0699"
+     cy="380"
+     inkscape:transform-center-x="357.75967"
+     inkscape:transform-center-y="178.87987"
+     r="17.5"
+     /><circle
+     style="fill:#338000;stroke-width:9.68314"
+    
+     cx="1535.45"
+     cy="380"
+     inkscape:transform-center-x="357.75967"
+     inkscape:transform-center-y="178.87987"
+     r="17.5"
+     /><circle
+     style="fill:#338000;stroke-width:9.68314"
+    
+     cx="1755.84"
+     cy="380"
+     inkscape:transform-center-x="357.75967"
+     inkscape:transform-center-y="178.87987"
+     r="17.5"
+     /><circle
+     style="fill:#338000;stroke-width:9.68314"
+    
+     cx="2046.51"
+     cy="428"
+     inkscape:transform-center-x="357.75967"
+     inkscape:transform-center-y="178.87987"
+     r="17.5"
+     /><circle
+     style="fill:#338000;stroke-width:9.68314"
+    
+     cx="2046.51"
+     cy="332"
+     inkscape:transform-center-x="357.75967"
+     inkscape:transform-center-y="178.87987"
+     r="17.5"
+     /><circle
+     style="fill:#338000;stroke-width:9.68314"
+    
+     cx="2359.01"
+     cy="428"
+     inkscape:transform-center-x="357.75967"
+     inkscape:transform-center-y="178.87987"
+     r="17.5"
+     /><circle
+     style="fill:#338000;stroke-width:9.68314"
+    
+     cx="2359.01"
+     cy="332"
+     inkscape:transform-center-x="357.75967"
+     inkscape:transform-center-y="178.87987"
+     r="17.5"
+     /><circle
+     style="fill:#338000;stroke-width:9.68314"
+    
+     cx="2671.5"
+     cy="332"
+     inkscape:transform-center-x="357.75967"
+     inkscape:transform-center-y="178.87987"
+     r="17.5"
+     /><circle
+     style="fill:#338000;stroke-width:9.68314"
+    
+     cx="2671.5"
+     cy="428"
+     inkscape:transform-center-x="357.75967"
+     inkscape:transform-center-y="178.87987"
+     r="17.5"
+     /><circle
+     style="fill:#338000;stroke-width:9.68314"
+    
+     cx="2984"
+     cy="428"
+     inkscape:transform-center-x="357.75967"
+     inkscape:transform-center-y="178.87987"
+     r="17.5"
+     /><circle
+     style="fill:#338000;stroke-width:9.68314"
+    
+     cx="2984"
+     cy="332"
+     inkscape:transform-center-x="357.75967"
+     inkscape:transform-center-y="178.87987"
+     r="17.5"
+     /><circle
+     style="fill:#338000;stroke-width:9.68314"
+    
+     cx="3310.8401"
+     cy="380"
+     inkscape:transform-center-x="357.75967"
+     inkscape:transform-center-y="178.87987"
+     r="17.5"
+     /><circle
+     style="fill:#338000;stroke-width:9.68314"
+    
+     cx="3310.8401"
+     cy="192"
+     inkscape:transform-center-x="357.75967"
+     inkscape:transform-center-y="178.87987"
+     r="17.5"
+     /><circle
+     style="fill:#338000;stroke-width:9.68314"
+    
+     cx="2978.21"
+     cy="192"
+     inkscape:transform-center-x="357.75967"
+     inkscape:transform-center-y="178.87987"
+     r="17.5"
+     /><circle
+     style="fill:#338000;stroke-width:9.68314"
+    
+     cx="2645.5801"
+     cy="192"
+     inkscape:transform-center-x="357.75967"
+     inkscape:transform-center-y="178.87987"
+     r="17.5"
+     /><circle
+     style="fill:#338000;stroke-width:9.68314"
+    
+     cx="2312.95"
+     cy="192"
+     inkscape:transform-center-x="357.75967"
+     inkscape:transform-center-y="178.87987"
+     r="17.5"
+     /><circle
+     style="fill:#338000;stroke-width:9.68314"
+    
+     cx="1980.33"
+     cy="192"
+     inkscape:transform-center-x="357.75967"
+     inkscape:transform-center-y="178.87987"
+     r="17.5"
+     /><circle
+     style="fill:#338000;stroke-width:9.68314"
+    
+     cx="1647.7"
+     cy="192"
+     inkscape:transform-center-x="357.75967"
+     inkscape:transform-center-y="178.87987"
+     r="17.5"
+     /></g></svg>
