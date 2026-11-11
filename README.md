@@ -55,18 +55,3 @@ ever separated from this repository.
   markers grouped under a Stations layer.
 * Prior modifications: Arbalete is named as the author, and the file has also been revised by
   Arrow303, Zio27 and Emanuele Lorenzo Corti. The file history at the link above names everyone.
-
-### Barcelona
-
-**File:** [`Maps/Treni_Barcelona_Metro.svg`](Maps/Treni_Barcelona_Metro.svg)
-* Adapted from: "Mapa metro Barcelona actual.svg" by ItsAstrid —
-  https://commons.wikimedia.org/wiki/File:Mapa_metro_Barcelona_actual.svg (revision of 16 June 2025)
-* Original license: CC BY-SA 4.0, the only license offered. See [`LICENSE`](LICENSE)
-* This derivative: CC BY-SA 4.0
-* Modifications: station markers added; some line routes adjusted to improve the connections
-  between lines; the line paths reorganised into one path per line and relabeled L1–L12, L9N,
-  L9S, L10N, L10S and T1–T6; elements the app does not use (text outlines, rivers, Rodalies and
-  other decoration) hidden.
-* Prior modifications: none. ItsAstrid is the file's sole author across all of its revisions,
-  and derived it from the same author's "Mapa metro Barcelona futur.svg". Both files describe
-  themselves as based on the map designed by Jug Cerović and Martí Ruiz for ATM Barcelona.
